@@ -1,0 +1,22 @@
+{
+  "name": "show-my-name-ksk",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaungSetKhant/show-my-name-ksk.git"
+  },
+  "keywords": [
+    "show-my-name-ksk"
+  ],
+  "author": "Kaung Set Khant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaungSetKhant/show-my-name-ksk/issues"
+  },
+  "homepage": "https://github.com/KaungSetKhant/show-my-name-ksk#readme"
+}
